@@ -83,9 +83,9 @@ export const Hero = () => {
                 <div className="text-base text-gray-700 text-center max-w-xl">
                     explore more of the coolest and high-quality sneakers right now and don’t miss the promos
                 </div>
-                <button className="bg-black text-white px-10 py-3 rounded-full text-lg font-bold hover:bg-gray-800 transition">
+                <a href="/product" className="bg-black text-white px-10 py-3 rounded-full text-lg font-bold hover:bg-gray-800 transition">
                     Explore now
-                </button>
+                </a>
             </div>
 
         </section>
